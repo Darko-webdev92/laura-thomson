@@ -1,0 +1,35 @@
+.bg-dark-image{
+    background-image:linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url("images/bg-banner03.jpg");   
+}
+.bg-image{
+    background-image: url("images/bg-banner03.jpg");
+    height: 80vh;
+}
+.inner-image-2{
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+.blockquote-1{
+    border-left: 3px solid #dc3545;
+}
+
+.image-2{
+    background: url("images/about-banner.jpg") no-repeat ;
+    min-height: 70vh;
+
+}
+.blockquote-2{
+    border-right: 3px solid #dc3545;
+}
+
+ul{
+    list-style: none;
+}
+
+.border-levo{
+    border-left: 5px solid grey;
+}
+
+.color-css{
+    color: #a9e3f9;
+}
